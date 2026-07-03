@@ -1,0 +1,20 @@
+﻿# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Editor
+.idea/
+.vscode/
+*.sublime-*
+
+# Temp
+*.log
+.env
+lakebook/
